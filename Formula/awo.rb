@@ -2,7 +2,7 @@ class Awo < Formula
   desc "Per-tmux-window AWS SSO profile switcher"
   homepage "https://github.com/sdgluck/awo"
   url "https://github.com/sdgluck/awo/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "bcfe07c4cca5a1b704f1aa2544505909c1bacb2885caa444701604a2a45f70f0"
+  sha256 "16871c09f752d1a1c78f25a72b49862103e32f755e184d7e2c74a7eb75f72320"
   license "MIT"
 
   depends_on "go" => :build
